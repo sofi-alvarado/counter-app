@@ -27,13 +27,16 @@ button {
     font-weight: bold;
     width: 200px;
     margin-bottom: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
 }
 
+
 #increment-btn {
-    background: darkred;
+    background: rgb(146, 106, 239);
 }
 
 #save-btn {
-    background: darkgreen;
+    background: rgb(233, 185, 235);
 }
